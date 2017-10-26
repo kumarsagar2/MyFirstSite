@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+}
+ul {
+  padding: 0;
+}
+h1 {
+  font-size: 2em;
+}
+.navigation {
+  background-color: red;
+  margin: 20px;
+  padding: 30px;
+  text-align: center;
+}
+li {
+  background-color: white;
+  display: inline-block;
+  margin: 15px;
+  padding: 10px;
+}
+a {
+  color: green;
+  text-decoration: none;
+}
+section {
+  background-color: ping;
+  text-align: center;
+  display: table;
+}
+div.box {
+  float: left;
+  width: 33.3%;
+}
+img {
+  width: 75%;
+  height: 50%;
+}
+.box p {
+  background-color: orange;
+  border: solid 10px white;
+  height: 300px;
+  margin: 50px;
+  padding: 30px;
+}
